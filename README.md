@@ -17,7 +17,7 @@ OOP using python<br>
 Data structures & algorithms<br>
 Design thinking<br>
 
-🚀** Featured Projects-**<br>
+🚀**Featured Projects-**<br>
 _**PulseX –**_ Early Health Risk Detection<br>
 An AI-powered healthcare concept that uses smartwatch health data to identify potential health risks at an early stage.
 
